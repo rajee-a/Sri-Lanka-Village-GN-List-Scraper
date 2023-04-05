@@ -75,7 +75,7 @@ def clean_and_fix_data(df: pd.DataFrame):
         'gn_en',
         'gn_ta',
         'gn_si',
-        'old_gnd_code',
+        'gnd_code (old)',
         'division_code',
         'division_en',
         'division_ta',
